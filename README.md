@@ -3,6 +3,6 @@ SilentVoice is a user-centric iOS accessibility application designed to empower 
 
 <p align="center">
   <img src="images/HomePage.jpg" width="230" />
-  <img src="images/DetectPage.jpg" width="230" /> 
+  <img src="images/DetectPage.jpg" width="227" /> 
   <img src="images/SpeakPage.jpg" width="230" />
 </p>
